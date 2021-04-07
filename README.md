@@ -11,7 +11,7 @@ The most important thing which attract me with IT is the technology which growin
 
 I am currently learning about angular course and I have also designed and developed the website for PS International InfoServices recently (live project). will go forward and join one organization as a front-end developer (angular developer) and will explore and learn about full mean stack technology in future.
 
-My goal is to be a good Mean stack developer.
+My goal is to be the good Mean stack developer.
 
 <!---
 thecodertech/thecodertech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
